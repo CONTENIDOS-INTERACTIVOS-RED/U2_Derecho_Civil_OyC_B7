@@ -175,15 +175,18 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/46321 " target="_blank" rel="noopener noreferrer") Rogel Vide, C. (2008). Estudios de Derecho Civil: obligaciones y contratos: ( ed.). Editorial Reus. 
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/30466 " target="_blank" rel="noopener noreferrer") Grupo Gaceta Juridica (2014) Jurisprudencia: derecho civil: derecho de contratos. Editorial: El Cid Editor.   
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.gerencie.com/lesion-enorme.html " target="_blank" rel="noopener noreferrer") Gerencie.com. (2022, 8 de septiembre). Lesión enorme. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://youtu.be/efANJMt20lk?si=x3oqOe9YyUcFuEee " target="_blank" rel="noopener noreferrer") Universidad Continental (2021, 18 de marzo)  Definición de un contrato u clasificación [Vídeo] Youtube
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
